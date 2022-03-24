@@ -33,14 +33,16 @@ public class System_hospitalier {
 		System.out.println(comparaisonDonnees);
 	}
 	
+	/**Analyse les Requêtes entrées en parametres */
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
 		return "requête analysée";
 	}
-	
+
+	/**Compare toutes les données de la BDD */
 	private String comparerDonnes() {
 		// Comparaison des données
 		return "Cluster trouvé";
-	}
+	}*/
 
 }
